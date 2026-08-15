@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"56fe74ec9d0ee55c","type":"text","text":"\nGAME-LOGIX-RUN\n\n**Texto** → aparece. \n\nEjemplo:\n[ Las conversaciones son eternas. Son datos que no deben ser tomados a la ligera. ]\n\n[ El cursor no necesita conocer todo el mapa. Necesita saber cuándo está siendo activada su sensibilidad. ]\n\n[ Siempre dejo que lo que vaya a ser conclusión: sea acomodado como un nuevo comienzo: desde otro ángulo ]\n\n**Jugador** → lo experimenta  \n**Runtime Binder** → lo registra  \n**Historial** → acumula relaciones  \n**Intuición** → empieza a emerger  \n**Lógica** → puede reconstruirse a partir del historial\n\nCADA VEZ...\n\n**el azar deja de ser completamente caótico después de haber sido experimentado.**","x":-460,"y":-1892,"width":640,"height":560},
-		{"id":"1534a0567ade687c","type":"file","file":"HEX/000-FLUX/09-ARCHIVE/usame.png","x":20,"y":-2148,"width":400,"height":256}
-	],
-	"edges":[
-		{"id":"d7b67cf69da7c1fd","fromNode":"1534a0567ade687c","fromSide":"bottom","toNode":"56fe74ec9d0ee55c","toSide":"right"}
-	]
-}

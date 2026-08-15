@@ -1,1 +1,0 @@
-Notas de navegación siendo nadie.
