@@ -420,4 +420,4 @@ License and contribution guidelines will be established as the project reaches a
 **Experimental.**
 **Conceptual architecture in development.**
 
-HEX begins here.
+HEX begins Now.
