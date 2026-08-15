@@ -1,0 +1,3 @@
+git add .github/Sponsor.yml
+git commit -m "chore: add project help experimental investigations"
+git push
