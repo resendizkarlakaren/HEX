@@ -1,8 +1,7 @@
 # HEX
 
 **Experimental framework for formalizing, modeling, and executing transformations.**
-
-> HEX is an experimental environment for developing a formal system in which distinctions, relations, transformations, and their observable traces can be represented, manipulated, tested, and eventually executed.
+HEX is an experimental environment for developing a formal system in which distinctions, relations, transformations, and their observable traces can be represented, manipulated, tested, and eventually executed.
 
 ---
 
@@ -22,21 +21,7 @@ At this stage, **conceptual clarity takes precedence over implementation volume*
 
 HEX is an experimental attempt to build a system capable of moving between:
 
-```text
-concept
-   ↓
-formal distinction
-   ↓
-representation
-   ↓
-operation
-   ↓
-transformation
-   ↓
-observable trace
-   ↓
-model / evidence
-```
+Concepts - Representation - Operation - Traceability - Model >> Evidence
 
 The long-term objective is not merely to create another programming language or simulation framework.
 
@@ -49,9 +34,7 @@ HEX explores whether a sufficiently minimal formal vocabulary can describe **how
 * testable
 * comparable
 
----
-
-# Core Question
+# Cores
 
 HEX begins from a simple question:
 
@@ -65,25 +48,17 @@ X₀ → X₁
 
 where the relevant object of study is not necessarily the isolated state, but the **difference that makes the transition count**.
 
-A more expressive formulation is:
+Can be expressed as:
 
-```text
-Composition
-    ↓
-Difference
-    ↓
-Counts
-    ↓
-Transformation
-    ↓
-Composition′
-```
+Composition - Difference > Counts - Transf > Comp'
+
+
 
 HEX is concerned with making this sequence formally manipulable.
 
----
 
-# Research Direction
+
+# Research Vector
 
 HEX explores a possible computational substrate for systems in which:
 
@@ -100,7 +75,7 @@ This makes HEX potentially relevant to several domains without committing it pre
 
 ---
 
-# Possible Scope
+DREAM SCOPE
 
 HEX may eventually develop into one or more of the following.
 
@@ -121,35 +96,26 @@ A compact language for expressing:
 
 An execution environment capable of taking a formal description and producing transformations.
 
-```text
-input
-  ↓
-interpretation
-  ↓
-operation
-  ↓
-transformation
-  ↓
-output
-```
+Input - Traceable Trayectory  - Output: as new comp'
 
 ### 3. Simulation Framework
 
 A system for constructing and observing dynamic configurations.
 
-Potential applications include:
+Potential applications include the following listed from Most wished to Little wished from and for myself:
 
-* complex systems
-* social systems
-* ecological systems
+* Somewhat social benign behavioural systems.
 * cognitive models
-* artificial agents
+* ecological systems
 * network dynamics
 * relational systems
+* artificial agents
 
 ### 4. Modeling Framework
 
-A formal environment for constructing models whose assumptions and transformations remain explicitly inspectable.
+**Modeling Framework** provides a formal environment for constructing models in which assumptions, relations, and transformations remain explicitly inspectable. A model can therefore represent not only what a system contains, but how a change in its configuration produces different possibilities of participation, agency, or meaning.
+
+**Example:** A group of people experiencing homelessness meets for one hour each week. Three members of the group also participate as developers of the course. Each week, they gather to share, demonstrate, and teach useful information about surveillance and data. Rather than positioning participants only as recipients of instruction, the model allows them to become contributors to the construction of knowledge. This changes the relational configuration of the learning environment: participation, authorship, teaching, and learning become shared functions.
 
 ### 5. Experimental Mathematics
 
@@ -168,37 +134,17 @@ A possible future layer for connecting formal transformations with observations 
 
 This would allow a distinction between:
 
-```text
-model
-≠
-observation
-≠
-evidence
-```
+model ≠ observation ≠ evidence
 
-while permitting explicit relations between them.
 
----
-
-# Fundamental Concerns
+#MAINConcerns
 
 HEX is currently organized around several questions.
 
-### Ontology
-
-What kinds of things must exist in the system?
-
-### Grammar
-
-How are distinctions and transformations expressed?
-
-### Vocabulary
-
-What terms have operational meaning?
-
-### Principles
-
-What constraints govern valid operations?
+#Ontology: What kinds of things must exist in the system?
+#Grammar: How are distinctions and transformations expressed?
+#Vocabulary: What terms have operational meaning?
+#Principles: What constraints govern valid operations?
 
 ### Model
 
@@ -218,7 +164,7 @@ How can a formal transformation become computationally executable?
 
 ---
 
-# Conceptual Architecture
+#Arquitecture: Conceptual flowscharts.
 
 The repository separates the conceptual system from its implementation.
 
@@ -252,9 +198,8 @@ The conceptual architecture is not considered subordinate documentation.
 
 It defines what the implementation is attempting to instantiate.
 
----
 
-# Design Principle
+#Design:
 
 HEX follows a deliberately strict criterion:
 
@@ -263,8 +208,6 @@ HEX follows a deliberately strict criterion:
 A more complicated representation is not automatically a better representation.
 
 A useful formalism should allow a phenomenon to be represented with fewer arbitrary assumptions while preserving the distinctions necessary for its transformation.
-
----
 
 # Development Philosophy
 
@@ -285,7 +228,6 @@ The repository therefore functions simultaneously as:
 
 The distinction between these layers should remain visible.
 
----
 
 # Relationship to FLUX
 
