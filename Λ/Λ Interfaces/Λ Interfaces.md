@@ -3,8 +3,8 @@ Representaciones
 
 
 - λ Cards
-- Posibles prototipos interactivos
-- Mecánicas
+- Posible interactive Prototype
+- Mechanics
   
   
   

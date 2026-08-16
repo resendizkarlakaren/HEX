@@ -27,6 +27,7 @@ Deóntica: Analiza las normas, los permisos y las obligaciones.
  [Temporal]:
   Estudia los conceptos de pasado, presente y futuro. 
 
-El circuito me cae de la patada. He decidido inventar a esto: una solución:
-![[Experiencia.png]]
+**El circuito me cae de la patada. Inventemos soluciones.**
+
+
 

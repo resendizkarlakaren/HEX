@@ -1,15 +1,4 @@
 
-LAMBDA COMO MOTOR
-Registros:
-- Notas rápidas
-- Hipótesis
-- Imágenes
-- Analogías
-- Relaciones emergentes
-- Sueños
-- Destellos conceptuales
-
-
 
 
 ---RUNTIME
