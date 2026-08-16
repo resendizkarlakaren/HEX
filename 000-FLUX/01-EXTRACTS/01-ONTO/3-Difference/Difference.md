@@ -1,7 +1,7 @@
 La diferencia es una variación potencial dentro de una composición.
 Su función introduce una modificación posible sin que necesariamente produzca todavía una reorganización.
 
-Estado: POSSIBILITY
+Estado: POTENTIAL
 
 Relación: COMPOSITION → DIFFERENCE
 

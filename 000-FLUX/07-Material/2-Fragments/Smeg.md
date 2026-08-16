@@ -1,0 +1,2 @@
+
+Empecé a ver las cosas como son y no como las imagino. Parece más gótico medieval de lo que a veces creo. Siento que yo soy malo. Después llega cierta vibración que me acomoda: donde estoy realmente. Es a veces el darte cuenta que el mundo está alienado. Y tú continúas queriendo hacerte cada vez más terrestre. Piensan que juegan con canicas y no quieren ver que son realmente esmeraldas. Yo llevo piedras de asfalto. Les dices que son esmeraldas y piensan que les llamas: deformes. Empezaron las cosas a verse cada ves: menos en el espejo.
