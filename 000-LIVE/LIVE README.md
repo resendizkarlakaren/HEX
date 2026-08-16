@@ -2,8 +2,7 @@
 # LIVE – Perceptive Layer
 
 LIVE is the perceptive layer of HEX.  
-It receives states from the runtime and manifests them as **nodes, transitions, flows, or dissolutions**.
-
+It receives states from the runtime and manifests them as **nodes, transitions, flows, or dissolutions** 
 ## ❦ Components
 
  **Runtime-Binder**: translates external occurrences into states (`push → Movement`, `merge → Integration`).  

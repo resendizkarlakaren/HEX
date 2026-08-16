@@ -26,7 +26,7 @@ The objective is not merely to create another programming language or simulation
 
 HEX is organized into multiple branches, each representing a distinct experimental channel:
 
-**HEX 𖣂 ➜ Stable nucleus, consolidated version.
+**HEX** 𖣂 Stable nucleus, consolidated version.
  
 **RUN** ➜ Laboratory of performative execution.
 **LIVE** ➜ Laboratory of real-time interaction.
