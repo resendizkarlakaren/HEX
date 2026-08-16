@@ -6,10 +6,9 @@ It receives states from the runtime and manifests them as **nodes, transitions, 
 
 ## ❦ Components
 
-✶ **Runtime-Binder**: translates external occurrences into states
- >(`push → Movement`, `merge → Integration`).  
-✶ **LIVE Engine**: converts states into perceptible forms (nodes, transitions, flows).  
-✶ **Events**: records of perceptible manifestations.
+ **Runtime-Binder**: translates external occurrences into states (`push → Movement`, `merge → Integration`).  
+ **LIVE Engine**: converts states into perceptible forms (nodes, transitions, flows).  
+ **Events**: records of perceptible manifestations.
 
 ## ❦ Principle
 
@@ -19,11 +18,11 @@ If the path is lost, a new composition emerges.
 
 ## ❦ Role in the System
 
-✶ **Λ**: axioms  
-✶ **FLUX**: principles and patterns  
-✶ **LIVE**: perceptive manifestation  
-✶ **RUN**: execution and validation  
-✶ **Src**: technical implementation  
+ **Λ**: axioms  
+ **FLUX**: principles and patterns  
+ **LIVE**: perceptive manifestation  
+ **RUN**: execution and validation  
+ **Src**: technical implementation  
 
 
 > _LIVE is where states become perceptible._  

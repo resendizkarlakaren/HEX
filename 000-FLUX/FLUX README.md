@@ -6,9 +6,9 @@ It incubates **principles, conditions, and potential patterns** that later becom
 
 ## ❦ Components
 
-✶ **Occurrences**: raw ideas or initial events.  
-✶ **Potential-Patterns**: prototypes of flow and transformation.  
-✶ **Principles**: construction rules and coherence conditions.
+ **Occurrences**: raw ideas or initial events.  
+ **Potential-Patterns**: prototypes of flow and transformation.  
+ **Principles**: construction rules and coherence conditions.
 
 ## ❦ Principle
 
@@ -17,11 +17,11 @@ Its role is to **formulate the seeds of transformation**, preparing them to be i
 
 ## ❦ Role in the System
 
-✶ **Λ**: axioms  
-✶ **FLUX**: principles and patterns  
-✶ **LIVE**: perceptive manifestation  
-✶ **RUN**: execution and validation  
-✶ **Src**: technical implementation  
+ **Λ**: axioms  
+ **FLUX**: principles and patterns  
+ **LIVE**: perceptive manifestation  
+ **RUN**: execution and validation  
+ **Src**: technical implementation  
 
 
 > _FLUX is where transformations are conceived._  

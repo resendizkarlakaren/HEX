@@ -6,9 +6,9 @@ Here, states are **interpreted, operated, and tested** within an experimental la
 
 ## ❦ Components
 
-✶ **Notebook**: space for experimentation and recording.  
-✶ **State-Interpreter**: applies rules and transforms states according to current conditions.  
-✶ **Tests**: validate operations and ensure coherence in transformations.
+ **Notebook**: space for experimentation and recording.  
+ **State-Interpreter**: applies rules and transforms states according to current conditions.  
+ **Tests**: validate operations and ensure coherence in transformations.
 
 ## ❦ Principle
 
@@ -17,11 +17,11 @@ Its role is to **put them into practice**, check their consistency, and reveal e
 
 ## ❦ Role in the System
 
-✶ **Λ**: axioms  
-✶ **FLUX**: principles and patterns  
-✶ **LIVE**: perceptive manifestation  
-✶ **RUN**: execution, interpretation, validation  
-✶ **Src**: technical implementation  
+ **Λ**: axioms  
+ **FLUX**: principles and patterns  
+ **LIVE**: perceptive manifestation  
+ **RUN**: execution, interpretation, validation  
+ **Src**: technical implementation  
 
 
 > _RUN is where states are tested._  

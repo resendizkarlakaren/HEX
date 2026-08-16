@@ -14,26 +14,26 @@ HEX is an attempt to build a system capable of moving between:
 
 The objective is not merely to create another programming language or simulation framework. HEX explores whether a minimal formal vocabulary can describe **how configurations become different configurations** while remaining:
 
-✶representable
-✶composable
-✶executable
-✶observable
-✶testable
-✶comparable
+➜ representable
+➜ composable
+➜ executable
+➜ observable
+➜ testable
+➜ comparable
 
 
 ## ❦ Branch Structure & Workflow
 
 HEX is organized into multiple branches, each representing a distinct experimental channel:
 
-𖣂 **HEX (default)** ➜ Stable nucleus, consolidated version.
+**HEX 𖣂 ➜ Stable nucleus, consolidated version.
+ 
+**RUN** ➜ Laboratory of performative execution.
+**LIVE** ➜ Laboratory of real-time interaction.
+**FLUX** ➜ Laboratory of dynamic change.
 
-✶ **RUN** ➜ Laboratory of performative execution.
-✶  **LIVE** ➜ Laboratory of real-time interaction.
-✶ **FLUX** ➜ Laboratory of dynamic change.
 
-
-𓇼 **Workflow:** `RUN / LIVE / FLUX` → `HEX`
+ **Workflow:** `RUN / LIVE / FLUX` → `HEX`
 
 This modular branching structure allows experimentation without compromising stability. Each branch embodies a conceptual role, while `HEX` remains the reference point for consolidated work.
 
@@ -41,13 +41,10 @@ This modular branching structure allows experimentation without compromising sta
 
 Each branch is associated with a language or tool that reinforces its conceptual role. This is of course Optional.
 
-✶ **HEX** ➜ TypeScript + Markdown (solidity, documentation clarity).
-
-✶ **RUN** ➜ Rust (secure, performant execution).
-
-✶ **LIVE** ➜ p5.js / Processing (interactive visualization).
-
-✶ **FLUX** ➜ Go (efficient handling of dynamic processes).
+ **HEX** ➜ TypeScript + Markdown (solidity, documentation clarity).
+ **RUN** ➜ Rust (secure, performant execution).
+ **LIVE** ➜ p5.js / Processing (interactive visualization).
+ **FLUX** ➜ Go (efficient handling of dynamic processes).
 
  Note: These associations are conceptual guidelines rather than strict requirements. Branches may use different languages or tools depending on the experiment.
 
@@ -57,43 +54,42 @@ Each branch is associated with a language or tool that reinforces its conceptual
 
 ## ❦ Development Conventions
 
-✶ Commits must be descriptive and traceable.
-
-✶ Merges into `HEX` require prior validation through testing.
-
-✶ Experimental branches should be periodically synchronized to avoid divergence.
-
-✶ Documentation accompanies code to preserve conceptual clarity.
+ -Commits must be descriptive and traceable.
+ -Merges into `HEX` require prior validation through testing.
+ -Experimental branches should be periodically synchronized to avoid divergence.
+ -Documentation accompanies code to preserve conceptual clarity.
 
 
 ## ❦ Architecture
 
 
-```
-HEX
-│
-├─➜ ⟢conceptual architecture
-│   ├─➜ ontology
-│   ├─➜ grammar
-│   ├─➜ vocabulary
-│   ├─➜ principles
-│   └─➜ models
-│
-├─➜ ⟢formalization
-│   ├─➜ notation
-│   ├─➜ mathematics
-│   └─➜ specifications
-│
-├─➜ ⟢implementation
-│   ├─➜ runtime
-│   ├─➜ operators
-│   └─➜ interfaces
-│
-└─➜ ⟢validation
-    ├─➜ tests
-    ├─➜ simulations
-    └─➜ empirical studies
-```
+                        ⟡ HEX ⟡
+                        
+              ╭──────────────┴──────────────╮
+              │                             │
+              ▼                             ▼
+        ᡕᠵデᡁ᠊╾━ Λ                  ᡕᠵデᡁ᠊╾━ FLUX
+          foundations                  concepts / patterns
+                                             │
+                                             │ 𓂃
+                                             ▼
+                                      Sequences / Inspo
+                                             │
+                                             │ 𓍼
+                                             ▼
+                                      ᡕᠵデᡁ᠊╾━ RUN
+                                         execution
+                                             │
+                                             │ ╰┈➤ 𒄆𓁹✞𒀱✞𓁹𒄆
+                                             ▼
+                                      ᡕᠵデᡁ᠊╾━ Src
+                                      implementation
+
+                              ⋮
+                              ⋮
+                              ▼
+                       ᡕᠵデᡁ᠊╾━ LIVE
+                         perception
 
 ## ❦ Design Philosophy
 
@@ -103,22 +99,22 @@ A useful formalism should allow a phenomenon to be represented with fewer arbitr
 
 ## ❦ Development Possible Stages 
 
-✶Phase I — Conceptualization
+-Phase I — Conceptualization
 
-✶ Phase II — Formalization
+-Phase II — Formalization
 
-✶Phase III — Minimal Runtime
+-Phase III — Minimal Runtime
 
-✶ Phase IV — Composition
+-Phase IV — Composition
 
-✶ Phase V — Simulation
+-Phase V — Simulation
 
-✶ Phase VI — Validation
+-Phase VI — Validation
 
-✶hase VII — Expansion
+-Phase VII — Expansion
 
 
-## 𓇼 Current Priority
+## ❦ Current Priority
 
 The immediate priority is **not to maximize functionality**, but to determine whether the conceptual core can be reduced to a sufficiently small set of coherent operations.
 
@@ -131,3 +127,5 @@ License and contribution guidelines will be established as the project reaches a
 **Experimental.** **Conceptual architecture in development.**
 
  HEX begins.
+ 
+ 

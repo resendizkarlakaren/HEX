@@ -4,24 +4,24 @@
 Λ is the foundational archive of HEX.  
 It contains **axioms, notes, and conceptual explorations** that sustain the system’s architecture.
 
-## ☀︎ Components
+## ❦  Components
 
-✶ **Λ-axioms.md**: fundamental axioms of the system.  
-✶ **Ethics, Intuitions, Graphs, Interfaces, Historical notes**: conceptual explorations and atmospheric records.  
-✶ **Entrance**: initial pathways into the archive.
+➜ **Λ-axioms.md**: fundamental axioms of the system.  
+➜ **Ethics, Intuitions, Graphs, Interfaces, Historical notes**: conceptual explorations and atmospheric records.  
+➜ **Entrance**: initial pathways into the archive.
 
-## ☀︎ Principle
+## ❦  Principle
 
 Λ is not execution or manifestation.  
 Its role is to **hold the root assumptions and exploratory notes** from which principles in FLUX and operations in RUN/LIVE emerge.
 
-## ☀︎ Role in the System
+## ❦  Role in the System
 
-✶ **Λ**: axioms and conceptual archive  
-✶ **FLUX**: principles and patterns  
-✶ **LIVE**: perceptive manifestation  
-✶ **RUN**: execution and validation  
-✶ **Src**: technical implementation  
+ **Λ**: axioms and conceptual archive  
+ **FLUX**: principles and patterns  
+ **LIVE**: perceptive manifestation  
+ **RUN**: execution and validation  
+ **Src**: technical implementation  
 
 
 > _Λ is the root of HEX._  
