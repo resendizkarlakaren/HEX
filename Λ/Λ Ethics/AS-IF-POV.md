@@ -1,7 +1,6 @@
 Λ La ficción es función operativa que organiza, delimita, expande, y entrega estructuras en una exploración. Por lo tanto asumiremos:
 
 
-
 AS-IF — LENSES
 
 Lens — Relacional
@@ -22,7 +21,6 @@ Observar ya constituye una forma de intervención.
 
 Un mismo acontecimiento puede ser cruzado por distintos Lens.
 [-Probemos este lente y observemos qué mundo se vuelve legible.-]
-
 
 
 #AS-IF Relacional-LENS
