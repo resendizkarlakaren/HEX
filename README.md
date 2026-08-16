@@ -342,12 +342,10 @@ The ambition is not simply to represent things.
 
 It is to represent:
 
-```text
-how configurations differ,
+[ how configurations differ,
 why a difference counts,
 what transformation follows,
-and what remains observable afterward.
-```
+and what remains observable afterward. ]
 
 ---
 
