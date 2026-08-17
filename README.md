@@ -63,7 +63,7 @@ Each branch is associated with a language or tool that reinforces its conceptual
 ## ❦ Architecture
 
 
-                        ⟡ HEX ⟡
+                        𒄆 HEX 𒄆
                         
               ╭──────────────┴──────────────╮
               │                             │
@@ -128,4 +128,23 @@ License and contribution guidelines will be established as the project reaches a
 
  HEX begins.
  
+ 
+ ---
+
+##  Welcome!   𒄆 HEX 𒄆  Is Happy To Say Hello!  
+
+ This repository currently shows a complete flow~
+
+➜ **Fragments** ➜ raw material (texts, narratives, seeds)  
+➜ **RUN** ➜ execution/interpretation (scripts, notebooks, symbolic translations)  
+➜ **Λ** ➜ formalization (axioms, foundational principles)  
+➜ **Root** ➜ minimal essentials (README, license, index)  
+
+For now, the material will remain in **Fragments** as examples.  
+Later, the **Binder** will be updated to integrate these pieces more systematically.  
+
+Collaborators can explore the cycle  
+
+~ write ➜ interpret ➜ formalize ➜ run~
+
  
