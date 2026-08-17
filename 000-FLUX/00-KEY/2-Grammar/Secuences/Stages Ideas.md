@@ -4,7 +4,7 @@
 
 ---
 
-### Bifurcation 
+-**Bifurcation 
 
 State-0
  ⋮
@@ -23,7 +23,7 @@ State-0
 State-
 
 
-### Relate-Transform
+-**Relate-Transform
  
  State-0
  ⋮
@@ -39,7 +39,7 @@ State-
       ⋮
    State-1
    
-### Emergence
+-**Emergence
 
 State-0
  ⋮
@@ -51,9 +51,10 @@ State-0
 > structure
       ⋮
       ⋮
-   State-
+   State-1
 
-### Accumulation
+
+-**Accumulation
 
 State-0
  ⋮
@@ -68,7 +69,7 @@ State-0
       ⋮
    State-1
    
-### Reuse
+-**Reuse
    
    State-0
  ⋮
@@ -99,7 +100,7 @@ State-0
    
    
 	
-### Loop 
+**Loop 
 
 State-0
  ⋮

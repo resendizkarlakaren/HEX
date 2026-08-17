@@ -135,10 +135,10 @@ License and contribution guidelines will be established as the project reaches a
 
  This repository currently shows a complete flow~
 
-➜ **Fragments** ➜ raw material (texts, narratives, seeds)  
-➜ **RUN** ➜ execution/interpretation (scripts, notebooks, symbolic translations)  
-➜ **Λ** ➜ formalization (axioms, foundational principles)  
-➜ **Root** ➜ minimal essentials (README, license, index)  
+ -**Fragments** ➜ raw material (texts, narratives, seeds)  
+ -**RUN** ➜ execution/interpretation (scripts, notebooks, symbolic translations)  
+ -**Λ** ➜ formalization (axioms, foundational principles)  
+ -**Root** ➜ minimal essentials (README, index, no license needed yet.)  
 
 For now, the material will remain in **Fragments** as examples.  
 Later, the **Binder** will be updated to integrate these pieces more systematically.  
