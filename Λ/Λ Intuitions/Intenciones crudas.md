@@ -31,3 +31,22 @@ Deóntica: Analiza las normas, los permisos y las obligaciones.
 
 
 
+⃗
+(
+𝑥
+,
+𝑦
+)
+=
+(
+−
+(
+𝑥
+−
+0.5
+)
+,
+−
+𝑦
+)
+
